@@ -1,1 +1,1 @@
-# ukraine_writers
+Я вивчила як генерувати SSH key, та багато git команд, таких як git init, git clone, git add, git status, git commit, git diff, git reset, git checkout, git clean, git remote, git pull, git push, git branch, git rebase, git cherry-pick, git tag, а також що таке репозиторiй, коммiт, гiлка, GitHub i як з ними працювати. 
